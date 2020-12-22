@@ -1,0 +1,42 @@
+Lans-Landia user Helpfile
+========================================
+
+Welcome to the Lans- Landia leaderboard
+
+The center console is sorted from the user with
+the most matches won to the least amount of
+matches won.
+
+1.)Your username will be displayed at the top right
+   together with: 
+   - your rank (based on matches won)
+   - the total number of contestants
+
+2.)To veiw your ratio of matches won to matches played
+   simply press the button labled "My ratio of matches
+   won to matches played."
+
+3.)To see which player has the highest ratio of 
+   matches won to matches played, please click the
+   button labled "Player with the highest ratio of
+   matches won per matches played".
+
+4.)Below that you can search for spescific users 
+   by entering their username into the box labled 
+   "Search Username".
+
+5.)To veiw the user with the highest K/D, you can
+   simply press the button labled "Highest K/D".
+
+6.)The username`s of the top 10 users with the most
+   matches won will be displayed on the bottom right,
+   as well as your username highlighted in green if 
+   you have made it into the top 10.
+
+7.)You can go through the other competetaros
+  by using your mouse`s center scroll weel, 
+  or clicking to navigate the center console.
+  - Variuos information about the user currnently
+    selected will appear in the boxes on the left
+  - You can also navigate by using the navigator
+    tool at the bottom left.

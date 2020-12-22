@@ -1,0 +1,27 @@
+Lans-Landia user Helpfile
+========================================
+
+This is your home page
+* The blue boxes on the right will display variuos 
+  results of you past matches
+* The box on the right will show you the history 
+  of the previuos matches you have competed in, 
+  by showing information such as the contestants
+  usernames and the winner of the match.
+
+If you want to enter to compete in a match
+please press the button labeled "Enter a match"
+and you will be entered and compete in a match.
+
+If you want to veiw the leaderboards and other 
+variuos statistics regarding the other competators 
+and the results of the matches, press the button 
+labled "Veiw Ye Olde Leaderboards".
+
+To veiw information about this years sponsors, 
+please press the button labled "Learn More 
+About Our Sponsors".
+
+To veiw complete record of all the matches played
+at this years`s Lans Landia, plaese visit: 
+www.LansLandia.com

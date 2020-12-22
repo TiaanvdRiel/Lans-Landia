@@ -1,0 +1,34 @@
+Lans-Landia user Helpfile
+========================================
+
+Welcome to the CS:GO Match
+
+- The match will cosist of 14 rounds
+- The first one yo get 10 kills wins
+  the round.
+- The current round will be displayed 
+  at the top right.
+- To start the match press the button
+  labled "Start Match".
+- When the match starts the competator`s names 
+  will be displayed next to the round in which 
+  they are currently at.
+- You have to select the winner of each round
+  and then press "Next Round" to continue
+PLEASE NOTE: you have to select ONE winner 
+at the round at which the match is currently
+at, displayed at the top right.
+
+If a contestatnt loses more than two times 
+he/she will be eliminated.
+
+If you exit the match, or close the screen
+it will count as a forfeit and you will 
+automatically be eliminated.
+
+The results of the match will be displayed
+in you match history.
+ 
+The results of the match will also be
+veiwable on the events website:
+www.LansLandia.com

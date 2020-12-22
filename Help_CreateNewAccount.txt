@@ -1,0 +1,24 @@
+Lans-Landia user Helpfile
+========================================
+
+To create a new account please: 
+
+1.) Ensure that you filled in and selected all the fields.
+2.) Your name must only contain letters and spaces.
+3.) Your surname must only contain letters and spaces.
+4.) Ensure that you entered a UNIQUE new username. 
+5.) You must be at least 16 to maximum 100 years of age.
+6.) Ensure that your cellphone number is 10 DIGITS long.
+7.) Ensure that the password that you created is at least 
+    8 characters long and contain AT LEAST ONE uppercase letter, 
+    letters AND numbers.
+8.) Ensure that your ID is correct by:
+    - being 13 characters long
+    - matching your age
+    - matching your gender 
+    - being correct by calculating the check digit according to 
+      the Luhn Algorithm
+
+Once you are surtain that all the data you have enetered is correct 
+you can create you new account by finally pressing the 
+"Sign Up" button.

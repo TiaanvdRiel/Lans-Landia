@@ -1,0 +1,11 @@
+Lans-Landia user Helpfile
+========================================
+
+To log into your existing account please:
+
+1.) Enter your existing accounts username next to "Username:"
+2.) Enter your existing accounts appropriate password next to "Password:"
+3.) Press the button "Log Into Account"
+
+* Please Note:
+The account you want to log into must already be registered. 
